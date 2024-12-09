@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<title>ES build smoke test</title>
+
+<main></main>
+
+<script type="module">
+	import { StacheElement, stache, Reflect } from "../../../core.mjs";
+
+	customElements.define("my-app", class extends StacheElement {
+		static get view() {
+			return `Hello {{ name }}!`;
+		}
+
+		static get props() {
+			return {
+				name: "world"
+			};
+		}
+	});
+
+	document.querySelector("main").appendChild(stache("<my-app></my-app>")());
+	var content = document.querySelector("my-app").textContent;
+
+	var QUnit = window.parent.QUnit;
+	var removeMyself = window.parent.removeMyself;
+	if(QUnit) {
+		QUnit.assert.equal(content, "Hello world!", "It rendered");
+		QUnit.assert.ok(!!Reflect, "canReflect is exported");
+		removeMyself();
+	} else {
+		console.log("Rendered ", content);
+	}
+
+</script>

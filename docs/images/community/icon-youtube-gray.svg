@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="icon-youtube-gray.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 32 32;"
+   viewBox="0 0 32 32"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata61"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs59" /><sodipodi:namedview
+   inkscape:current-layer="g54"
+   inkscape:window-maximized="0"
+   inkscape:window-y="0"
+   inkscape:window-x="0"
+   inkscape:cy="87.331294"
+   inkscape:cx="63.148876"
+   inkscape:zoom="3.314563"
+   showgrid="false"
+   id="namedview57"
+   inkscape:window-height="900"
+   inkscape:window-width="1440"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style36"
+   type="text/css">
+	.st0{fill:#BBBDBF;}
+</style>
+<g
+   id="g54">
+	
+	
+<g
+   id="g1461"
+   transform="matrix(0.13977273,0,0,-0.13977273,2.581776,29.41821)"><path
+     id="path30"
+     style="fill:#bbbdbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 180.3223,138.6372 c -2.024,7.622 -7.987,13.624 -15.561,15.661 -13.724,3.702 -68.761,3.702 -68.761,3.702 0,0 -55.037,0 -68.762,-3.702 -7.573,-2.037 -13.537,-8.039 -15.561,-15.661 -3.677,-13.814 -3.677,-42.637 -3.677,-42.637 0,0 0,-28.822 3.677,-42.638 2.024,-7.621 7.988,-13.623 15.561,-15.661 13.725,-3.701 68.762,-3.701 68.762,-3.701 0,0 55.037,0 68.761,3.701 7.574,2.038 13.537,8.04 15.561,15.661 3.678,13.816 3.678,42.638 3.678,42.638 0,0 0,28.823 -3.678,42.637" /><g
+     id="g32"
+     transform="translate(78,69.8311)"><path
+       d="M 0,0 46,26.168 0,52.338 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path34" /></g></g></g>
+</svg>
